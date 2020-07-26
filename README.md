@@ -1,6 +1,6 @@
-# about-card
+# past-aboutcard
 
-This is my first attempt to learning CSS and HTML back in the day, not so pretty but it's got me small spark to learning web development.
+This is my first attempt to learning CSS and HTML back in the day, not so pretty but it's got me small spark to learn web development.
 
 ## Lesson learned
 
